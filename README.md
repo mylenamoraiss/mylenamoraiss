@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou a Mylena Morais
 
-🎓 Estudante de Engenharia de Software  
-💼 Gerente de Vendas | Em transição para a área de TI  
-📍 Maringá - PR  
+ Estudante de Engenharia de Software  
+ Gerente de Vendas | Em transição para a área de TI  
+ Maringá - PR  
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou apaixonada por resolver problemas e otimizar processos.  
 Tenho experiência como gerente de vendas, atuando com metas, análise de desempenho e gestão de equipe.
