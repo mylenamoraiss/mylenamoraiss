@@ -24,7 +24,7 @@ Atualmente, estou focada em desenvolver habilidades em tecnologia, construindo p
 
 ---
 
-## 📊 Projetos
+##  Projetos
 
 🔹 **Simulador de Comissão**  
 Sistema que calcula premiações com base no valor de vendas  
@@ -39,11 +39,11 @@ Página de produtos com foco em conversão
 
 ---
 
-## 📫 Contato
+##  Contato
 
-📧 mylenabm54@gmail.com
-🔗 www.linkedin.com/in/mylena-morais-a60571207
+ mylenabm54@gmail.com
+ www.linkedin.com/in/mylena-morais-a60571207
 
 ---
 
-✨ Construindo minha transição para a tecnologia com projetos reais
+ Construindo minha transição para a tecnologia com projetos reais
