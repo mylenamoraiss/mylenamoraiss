@@ -28,15 +28,15 @@ Atualmente, estou focada em desenvolver habilidades em tecnologia, construindo p
 
 🔹 **Simulador de Comissão**  
 Sistema que calcula premiações com base no valor de vendas  
-👉 [Ver projeto online](https://mylenamoraiss.github.io/simulador-comissao/)  
-👉 [Ver código no GitHub](https://github.com/mylenamoraiss/simulador-comissao)
+🌐 [Ver projeto online](https://mylenamoraiss.github.io/simulador-comissao/)  
+💻 [Ver código no GitHub](https://github.com/mylenamoraiss/simulador-comissao)
+
+---
 
 🔹 **Dashboard de Vendas**  
-Controle de metas e acompanhamento de desempenho  
-
-🔹 **Vitrine Online (Maria Gazoza)**  
-Página de produtos com foco em conversão  
-
+Dashboard interativo com acompanhamento de metas, feedback visual e barra de progresso dinâmica  
+🌐 [Ver projeto online](https://mylenamoraiss.github.io/dashboard-vendas/)  
+💻 [Ver código no GitHub](https://github.com/mylenamoraiss/dashboard-vendas)
 ---
 
 ##  Contato
