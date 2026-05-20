@@ -26,15 +26,15 @@ Atualmente, estou focada em desenvolver habilidades em tecnologia, construindo p
 
 ##  Projetos
 
-🔹 **Simulador de Comissão**  
+###🔹 **Simulador de Comissão**  
 Sistema que calcula premiações com base no valor de vendas  
 🌐 [Ver projeto online](https://mylenamoraiss.github.io/simulador-comissao/)  
 💻 [Ver código no GitHub](https://github.com/mylenamoraiss/simulador-comissao)
 
 ---
 
-🔹 **Dashboard de Vendas**  
-Dashboard interativo com acompanhamento de metas, feedback visual e barra de progresso dinâmica  
+###🔹 **Dashboard de Vendas**  
+Dashboard interativo para acompanhamento de metas com feedback visual dinâmico  
 🌐 [Ver projeto online](https://mylenamoraiss.github.io/dashboard-vendas/)  
 💻 [Ver código no GitHub](https://github.com/mylenamoraiss/dashboard-vendas)
 ---
